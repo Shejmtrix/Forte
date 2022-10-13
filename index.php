@@ -54,6 +54,9 @@
             <div class="right-side">
             </div>
         </div>
+        <div class="leftText">
+            <p>Pizza Forte, Javorová 828, Dobruška 518 01</p>
+        </div>
         <div class="socialNetwork">
             <img src="./images/facebook.svg" width="100%" height="auto" alt="">
             <img src="./images/instagram.svg" width="100%" height="auto" alt="">

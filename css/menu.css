@@ -60,7 +60,7 @@ p a {
 }
 @media screen and (max-width: 1024px){
     .logo {
-        width: 35%;
+        width: 30%;
         margin-top: 8px;
     }
     .phone {
@@ -69,7 +69,7 @@ p a {
     .order-onl {
         width: 40%;
         padding: 14px 7px;
-        margin: 12px;
+        margin: 8px;
     }
     .menuList {
         position: absolute;

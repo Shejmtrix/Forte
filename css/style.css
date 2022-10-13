@@ -107,7 +107,6 @@ h3 {
     background-image: url(../images/offers.png);
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: auto;
 }
 .btns {
     width: 100%;
