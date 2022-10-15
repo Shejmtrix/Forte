@@ -107,11 +107,26 @@ h3 {
     background-image: url(../images/offers.png);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 64px;
 }
 .btns {
     width: 100%;
     display: flex;
     justify-content: space-evenly;
+}
+.offers .buttons {
+    width: 50%;
+    margin: 0% auto;
+    margin-top: 32px;
+}
+#left-aler {
+    background: none;
+}
+#right-aler {
+    border-radius: 35px;
+}
+#right-aler .btn {
+    text-align: center;
 }
 .offerBtn {
     background-color: #FFFFFF;
@@ -229,4 +244,5 @@ h3 {
         width: 100%;
         height: 50vh;
     }
+
 }

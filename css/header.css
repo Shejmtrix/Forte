@@ -135,21 +135,21 @@ h1 {
         margin-top: 32px;
         display: block;
         margin-bottom: 64px;
+        text-align: center;
     }
     .buttons img {
-        width: auto;
+        width: 30%;
         padding: 0px;
         margin-left: 0%;
     }
     .left-button img, .right-button img {
-        margin-left: 0%;
-        background-color: antiquewhite;
+        margin-left: 15%;
+        text-align: right;
     }
     .buttons p {
-        width: auto;
+        width: 100%;
         text-align: left;
         font-size: 15px;
-        background-color: antiquewhite;
     }
     .left-button {
         padding: 10px;
@@ -169,7 +169,7 @@ h1 {
         border-top-right-radius: 0px;
     }
     .socialNetwork {
-        width: 35%;
+        width: 25%;
     }
     .img {
         width: 50%;

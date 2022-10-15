@@ -119,7 +119,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="offers">
+        <div class="offers" id="offers">
             <div class="btns">
                 <div class="offerBtn">
                     <p class="btn"><a href="#">Pizzy</a></p>
@@ -263,6 +263,25 @@
                         <p>Ø 33cm: <b>135 kč</b></p>
                         <p>Ø 45cm: <b>230 kč</b></p>
                     </div>
+                </div>
+            </div>
+            <div class="buttons" id="buttons">
+                <div class="left-button">
+                    <img src="./images/pizza.svg" width="auto" height="64px" alt="">
+                    <p class="btn"><a href="">Objednat on-line</a></p>   
+                 </div>
+                <div class="right-button">
+                    <img src="./images/telephone.svg" width="auto" height="64px" alt="">
+                    <p class="btn"><a href="">+420 774 744 994</a></p>
+                </div>
+            </div>
+            <div class="buttons">
+                <div class="left-button" id="left-aler">
+                    <img src="./images/info.svg" width="auto" height="64px" alt="">
+                    <p class="btn"><a href="alergens.html">Seznam alergenů:</a></p>   
+                 </div>
+                <div class="right-button" id="right-aler">
+                    <p class="btn"><a href="alergens.html">Alergeny</a></p>
                 </div>
             </div>
         </div>
